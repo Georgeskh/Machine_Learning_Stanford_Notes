@@ -1,1 +1,1 @@
-# Machine_Lesrning_Stanford_Notes
+# Machine_Learning_Stanford_Notes
